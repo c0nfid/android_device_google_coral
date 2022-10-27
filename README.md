@@ -25,4 +25,4 @@ Pixel 4/XL was announced and released in October 2019.
 
 ## Device picture
 
-![Pixel 4 XL](https://fdn2.gsmarena.com/vv/pics/google/google-pixel-4-xl-2.jpg "Pixel 4 XL")
+![Pixel 4 XL](https://www.dlf.pt/dfpng/maxpng/141-1413018_old-cell-phone-png.png "Pixel 4 XL")
