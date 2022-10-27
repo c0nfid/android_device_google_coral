@@ -521,4 +521,7 @@
     <string-array name="config_biometric_sensors" translatable="false" >
         <item>0:8:15</item> <!-- ID0:Face:Strong -->
     </string-array>
+
+    <!-- Wireless charger -->
+    <bool name="config_nfc_conflict_with_wlc">true</bool>
 </resources>
