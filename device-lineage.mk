@@ -74,6 +74,7 @@ PRODUCT_PACKAGES += \
     android.hardware.bluetooth@1.1.vendor \
     hardware.google.bluetooth.bt_channel_avoidance@1.0.vendor \
     hardware.google.bluetooth.sar@1.0.vendor \
+    android.hardware.bluetooth.audio-impl \
     vendor.qti.hardware.bluetooth_audio@2.0.vendor
 
 # Camera
