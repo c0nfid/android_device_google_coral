@@ -46,7 +46,7 @@ PRODUCT_PACKAGES += \
     RcsService
 
 # Touch
-include hardware/google/pixel/touch/device.mk
+# include hardware/google/pixel/touch/device.mk
 
 # Build necessary packages for system_ext
 
